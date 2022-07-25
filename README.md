@@ -1,4 +1,5 @@
-👋 Hi, I’m Tan Huynh Nhat
+👋 Hi, I’m Tan Huynh Nhat.
+
 I am working as a Software Engineer.
 I can develop web systems with MVC and HMVC patterns using PHP as back end, VueJS as front end and Mysql as database.
 In addition, I was able to build a basic server to deploy the website.
